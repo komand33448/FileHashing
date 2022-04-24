@@ -1,5 +1,5 @@
 ## FileHashing
-C# program that checks if hashes match
+C# .NET program that checks if hashes match
 
 ## Instalation
 
